@@ -1,0 +1,27 @@
+{
+  "name": "Friend_Finder",
+  "version": "1.0.0",
+  "description": "FriendFinder is a compatibility based dating application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com//FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com//FriendFinder/issues"
+  },
+  "homepage": "https://github.com//FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7"
+  }
+}
